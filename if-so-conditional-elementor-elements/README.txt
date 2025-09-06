@@ -3,7 +3,7 @@ Contributors: ifso
 Donate link: https://www.if-so.com/?utm_source=WordPress&utm_medium=Readme&utm_campaign=Donate%20link  
 Tags: Dynamic content, Elementor, conditional, geotargeting, location  
 Requires at least: 4.0.1  
-Tested up to: 6.7  
+Tested up to: 6.8
 Stable tag: 1.4  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
@@ -35,12 +35,6 @@ Tailor every interaction to create unique and memorable experiences for each vis
 - **Geolocation Dynamic Keyword Insertion:** Dynamically display users' location details with simple shortcodes.  
 - **Automatic Time Adjustment:** Automatically adjust event times to match users' time zones.  
 
-= Why If-So? =
-- **Built for Simplicity:** Easy installation, intuitive conditions, and straightforward management.  
-- **Powerful Targeting:** Choose from a broad list of conditions for unparalleled flexibility.  
-- **Caching-Compatible:** Fully functional with popular caching plugins.  
-- **Advanced Features:** Access a wide array of dynamic content tools.  
-
 = Use Cases & Versatility = 
 Enhance each visitor’s journey:  
 - **Geolocation:** Target visitors by country, state, or city.  
@@ -51,6 +45,14 @@ Enhance each visitor’s journey:
 - **Time-Based Promotions:** Run targeted sales, events, or countdowns.  
 
 <a href="https://www.if-so.com/personalization-examples?utm_source=WordPress&utm_medium=Readme&utm_campaign=ElementorIntegration&utm_term=examples" target="_blank">More usage examples >></a>
+
+
+= Why If-So? =
+- **Built for Simplicity:** Easy installation, intuitive conditions, and straightforward management.  
+- **Powerful Targeting:** Choose from a broad list of conditions for unparalleled flexibility.  
+- **Caching-Compatible:** Fully functional with popular caching plugins.  
+- **Advanced Features:** Access a wide array of dynamic content tools.  
+
 
 
 == Installation ==  
